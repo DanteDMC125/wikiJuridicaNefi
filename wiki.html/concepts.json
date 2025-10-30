@@ -1,0 +1,128 @@
+[
+  {
+    "id": "penal-enemigo",
+    "title": "Derecho penal del enemigo",
+    "cat": "Derecho penal",
+    "def": "Concepción que trata a ciertos infractores como 'enemigos' del Estado, justificando medidas excepcionales y limitación de derechos.",
+    "body": "<p>El Derecho Penal del Enemigo tiene origen en el pensamiento jurídico alemán. Se aplica en contextos excepcionales (terrorismo, crimen organizado) y ha sido criticado por potenciales violaciones a derechos humanos, estigmatización y deriva autoritaria.</p>"
+  },
+  {
+    "id": "pluralismo-juridico",
+    "title": "Pluralismo jurídico",
+    "cat": "Teoría jurídica",
+    "def": "Coexistencia de múltiples sistemas jurídicos dentro de una misma sociedad (normas estatales, consuetudinarias, religiosas, etc.).",
+    "body": "<p>El pluralismo jurídico reconoce marcos formales e informales y plantea preguntas sobre la interacción entre derecho estatal y normas alternativas.</p>"
+  },
+  {
+    "id": "multiculturalidad-interculturalidad",
+    "title": "Multiculturalismo e interculturalidad",
+    "cat": "Sociología jurídica",
+    "def": "Conceptos que describen la coexistencia y la interacción entre culturas.",
+    "body": "<p>El multiculturalismo enfatiza la coexistencia y la tolerancia; la interculturalidad promueve el diálogo y el intercambio entre culturas para desmontar prejuicios.</p>"
+  },
+  {
+    "id": "teorias-criminologicas",
+    "title": "Teorías criminológicas (general)",
+    "cat": "Criminología",
+    "def": "Marcos teóricos que buscan explicar las causas y motivaciones del comportamiento criminal.",
+    "body": "<p>Incluyen teorías de la elección racional, del aprendizaje social, del etiquetado, de las subculturas, y enfoques sociológicos como la anomia.</p>"
+  },
+  {
+    "id": "teorias-psicologicas",
+    "title": "Teorías psicológicas",
+    "cat": "Criminología",
+    "def": "Explican la conducta criminal a través de procesos mentales y rasgos de personalidad.",
+    "body": "<p>Abarcan teorías de la personalidad (psicopatía), teorías del aprendizaje y el análisis de trastornos mentales que pueden vincularse con conductas delictivas.</p>"
+  },
+  {
+    "id": "teorias-biologicas",
+    "title": "Teorías biológicas",
+    "cat": "Criminología",
+    "def": "Factores biológicos (genética, neuroquímica, lesiones) que pueden influir en la conducta delictiva.",
+    "body": "<p>Incluyen estudios genéticos, investigaciones sobre neurotransmisores y el impacto de lesiones cerebrales en la agresividad.</p>"
+  },
+  {
+    "id": "teorias-sociologicas",
+    "title": "Teorías sociológicas",
+    "cat": "Criminología",
+    "def": "Factores sociales y estructurales (pobreza, desigualdad, desorganización) que influyen en el delito.",
+    "body": "<p>Comprenden la teoría de la anomia, la teoría de la subcultura y la teoría del control social.</p>"
+  },
+  {
+    "id": "escuela-chicago",
+    "title": "Escuela de Chicago, anomia y tensión social",
+    "cat": "Sociología",
+    "def": "Escuela que estudia cómo variables urbanas como la pobreza y la desorganización influyen en la delincuencia.",
+    "body": "<p>Shaw y McKay relacionaron zonas de transición con mayores tasas de delincuencia, adaptando el concepto de anomia de Durkheim.</p>"
+  },
+  {
+    "id": "control-social",
+    "title": "Teoría del control social informal",
+    "cat": "Criminología",
+    "def": "Mecanismos no formales (familia, escuela, comunidad) que regulan el comportamiento y previenen el delito.",
+    "body": "<p>Travis Hirschi enfatiza que vínculos sociales fuertes reducen la probabilidad de conducta delictiva.</p>"
+  },
+  {
+    "id": "aprendizaje-social",
+    "title": "Teoría del aprendizaje social",
+    "cat": "Criminología",
+    "def": "La conducta delictiva se aprende por interacción social, modelado y refuerzo (Bandura).",
+    "body": "<p>El delito se aprende al observar e imitar modelos que refuerzan conductas desviadas.</p>"
+  },
+  {
+    "id": "etiquetado",
+    "title": "Teoría del etiquetado (labeling)",
+    "cat": "Criminología crítica",
+    "def": "La criminalidad es consecuencia de las reacciones sociales y la etiquetación que margina a individuos.",
+    "body": "<p>La etiqueta de 'delincuente' puede llevar a una profecía autocumplida y profundizar la marginación.</p>"
+  },
+  {
+    "id": "criminologia-critica",
+    "title": "Criminología crítica y conflicto social",
+    "cat": "Criminología",
+    "def": "Enfoque que pone el foco en desigualdades y el poder en la definición del delito.",
+    "body": "<p>Postula que las leyes pueden servir a intereses de grupos dominantes y aboga por soluciones estructurales más que punitivas.</p>"
+  },
+  {
+    "id": "eleccion-racional",
+    "title": "Elección racional criminal",
+    "cat": "Criminología",
+    "def": "Modelo que ve al delincuente como agente que valora costos y beneficios antes de delinquir.",
+    "body": "<p>La conducta delictiva surge si los beneficios percibidos superan los costos esperados.</p>"
+  },
+  {
+    "id": "teorias-integradoras",
+    "title": "Teorías integradoras",
+    "cat": "Criminología",
+    "def": "Modelos que combinan factores biológicos, psicológicos y sociales para explicar el delito.",
+    "body": "<p>Abordan la complejidad del fenómeno criminal considerando múltiples factores interactivos.</p>"
+  },
+  {
+    "id": "carreras-delictivas",
+    "title": "Carreras delictivas",
+    "cat": "Criminología",
+    "def": "Trayectoria de conducta delictiva a lo largo de la vida e influencias que favorecen inicio, persistencia o desistimiento.",
+    "body": "<p>Modelos de Farrington y otros describen distintos patrones de carrera delictiva.</p>"
+  },
+  {
+    "id": "criminologia-cultural",
+    "title": "Criminología cultural",
+    "cat": "Criminología",
+    "def": "Analiza cómo la cultura y los medios construyen significados sobre el delito y la desviación.",
+    "body": "<p>Estudia representaciones culturales y su influencia en percepciones y políticas públicas.</p>"
+  },
+  {
+    "id": "criminologia-paz",
+    "title": "Criminología orientada a la construcción de la paz",
+    "cat": "Criminología",
+    "def": "Enfoque que busca prevención, reconciliación y transformaciones sociales para reducir violencia.",
+    "body": "<p>Aboga por soluciones que promuevan justicia social y reduzcan las causas estructurales del delito.</p>"
+  },
+  {
+    "id": "criminologia-administrativa",
+    "title": "Criminología administrativa",
+    "cat": "Criminología",
+    "def": "Uso de técnicas estadísticas y análisis de datos para prevenir y controlar delitos.",
+    "body": "<p>Incluye análisis predictivo y diseño de intervenciones, con críticas por sus riesgos de vigilancia y desigualdad.</p>"
+  }
+]
